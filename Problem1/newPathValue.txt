@@ -1,0 +1,1 @@
+PATH=/home/debian/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games:$/home/debian/WilsonHW3:$/home/debian/WilsonHW3:$/home/debian/WilsonHW3
